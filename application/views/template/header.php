@@ -11,7 +11,7 @@
 <div class="top-bar stacked-for-medium" id="example-menu">
   <div class="top-bar-left">
     <ul class="dropdown menu" data-dropdown-menu>
-      <li class="menu-text">Site Title</li>
+      <li class="menu-text">TURGAET</li>
       <li class="has-submenu">
         <a href="#0">One</a>
         <ul class="submenu menu vertical" data-submenu>
